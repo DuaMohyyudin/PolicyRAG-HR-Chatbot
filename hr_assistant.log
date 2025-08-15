@@ -1,0 +1,216 @@
+2025-07-31 16:37:27,636 - ERROR - Initialization failed: 'str' object has no attribute 'POLICY_PDF_PATH'
+2025-07-31 16:37:27,636 - CRITICAL - Application startup failed: 'str' object has no attribute 'POLICY_PDF_PATH'
+2025-07-31 16:43:25,103 - CRITICAL - Initialization failed: name 'os' is not defined
+2025-07-31 16:44:17,751 - CRITICAL - Initialization failed: name 'os' is not defined
+2025-07-31 16:51:54,803 - CRITICAL - Initialization failed: 'str' object has no attribute 'POLICY_PDF_PATH'
+2025-07-31 16:53:57,433 - CRITICAL - Initialization failed: 'str' object has no attribute 'POLICY_PDF_PATH'
+2025-07-31 16:56:26,778 - CRITICAL - Initialization failed: 'WindowsPath' object has no attribute 'POLICY_PDF_PATH'
+2025-07-31 17:32:45,606 - INFO - Use pytorch device_name: cpu
+2025-07-31 17:32:45,606 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-31 17:32:51,748 - ERROR - System initialization failed: \u274c Document load failed: Failed to download Excel file.
+2025-07-31 17:32:51,750 - CRITICAL - System crash: \u274c Document load failed: Failed to download Excel file.
+2025-07-31 17:43:47,928 - INFO - Use pytorch device_name: cpu
+2025-07-31 17:43:47,928 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-31 17:43:55,254 - ERROR - System initialization failed: \u274c Document load failed: Failed to download Excel file.
+2025-07-31 17:43:55,256 - CRITICAL - System crash: \u274c Document load failed: Failed to download Excel file.
+2025-07-31 17:57:50,751 - INFO - Use pytorch device_name: cpu
+2025-07-31 17:57:50,751 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-31 17:57:56,463 - ERROR - System initialization failed: \u274c Document load failed: Failed to download Excel file.
+2025-07-31 17:57:56,464 - CRITICAL - System crash: \u274c Document load failed: Failed to download Excel file.
+2025-08-01 09:58:30,189 - INFO - Use pytorch device_name: cpu
+2025-08-01 09:58:30,191 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 09:58:36,262 - ERROR - System initialization failed: \u274c Document load failed: Failed to download Excel file.
+2025-08-01 09:58:36,263 - CRITICAL - System crash: \u274c Document load failed: Failed to download Excel file.
+2025-08-01 10:12:22,462 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:12:22,462 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:12:28,018 - ERROR - System initialization failed: \u274c Document load failed: Failed to download Excel file.
+2025-08-01 10:12:28,020 - CRITICAL - System crash: \u274c Document load failed: Failed to download Excel file.
+2025-08-01 10:19:02,585 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:19:02,585 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:19:08,669 - ERROR - System initialization failed: \u274c Document load failed: Excel file format cannot be determined, you must specify an engine manually.
+2025-08-01 10:19:08,670 - CRITICAL - System crash: \u274c Document load failed: Excel file format cannot be determined, you must specify an engine manually.
+2025-08-01 10:22:46,386 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:22:46,386 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:22:58,006 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:22:58,007 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:23:05,305 - INFO - Loading faiss with AVX2 support.
+2025-08-01 10:23:05,510 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 10:23:05,516 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 10:23:05,525 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:23:05,525 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:23:09,760 - INFO - Gemini gemini-2.5-flash initialized successfully
+2025-08-01 10:23:09,761 - ERROR - System initialization failed: Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'google.generativeai.generative_models.GenerativeModel'>
+2025-08-01 10:23:09,762 - CRITICAL - System crash: Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'google.generativeai.generative_models.GenerativeModel'>
+2025-08-01 10:36:06,648 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:36:06,649 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:36:16,814 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:36:16,814 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:36:23,591 - INFO - Loading faiss with AVX2 support.
+2025-08-01 10:36:23,607 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 10:36:23,611 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 10:36:23,620 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:36:23,620 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:36:27,812 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 10:37:19,436 - INFO - Query processed for user dua: what is my travelling allowance for grade G5\u2010 Sr. ...
+2025-08-01 10:38:50,857 - INFO - Query processed for user dua: i am expecting a son by next moonth what perks can...
+2025-08-01 10:40:33,025 - INFO - Query processed for user dua: what is my grade ?...
+2025-08-01 10:41:33,409 - INFO - Query processed for user dua: according to my grade what is the health insurance...
+2025-08-01 10:42:50,269 - INFO - Query processed for user dua: what is he fuel perk for me ? for grade G5\u2010 Sr. 
+...
+2025-08-01 10:43:26,967 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:43:26,967 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:43:36,629 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:43:36,629 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:43:44,234 - INFO - Loading faiss with AVX2 support.
+2025-08-01 10:43:44,248 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 10:43:44,252 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 10:43:44,261 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:43:44,261 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:43:48,492 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 10:44:31,691 - INFO - Query processed for user dua: waha is the maternity policy ?...
+2025-08-01 10:45:13,892 - INFO - Query processed for user dua: what is y gender ?...
+2025-08-01 10:45:37,561 - INFO - Query processed for user dua: what is my gender ?...
+2025-08-01 10:46:14,978 - INFO - Query processed for user dua: what is the fuel allowance for my grade ? for grad...
+2025-08-01 10:46:56,763 - INFO - Query processed for user dua: what is the fuel allowance policy for g3 officer...
+2025-08-01 10:47:28,851 - INFO - Query processed for user dua: what is the fuel allowance policy for g1-officer...
+2025-08-01 10:56:31,458 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:56:31,458 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:56:42,141 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:56:42,142 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:56:49,001 - INFO - Loading faiss with AVX2 support.
+2025-08-01 10:56:49,016 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 10:56:49,020 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 10:56:49,029 - INFO - Use pytorch device_name: cpu
+2025-08-01 10:56:49,029 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 10:56:52,757 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 10:57:35,307 - INFO - Query processed for user dua: what benfits i can get?...
+2025-08-01 10:58:31,839 - INFO - Query processed for user dua: what is is my fuel benefit amount ? for grade G5\u2010 ...
+2025-08-01 10:59:39,169 - INFO - Query processed for user dua: what is the opd policy for me...
+2025-08-01 11:00:14,957 - INFO - Query processed for user dua: what is the fuel allowance for me for grade G5\u2010 Sr...
+2025-08-01 11:00:54,132 - INFO - Query processed for user dua: what is the fuel allowance for g1 officer for grad...
+2025-08-01 11:02:00,265 - INFO - Query processed for user dua: what is the fuel allowance for me for grade G5\u2010 Sr...
+2025-08-01 11:03:33,095 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:03:33,096 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:03:44,075 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:03:44,075 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:03:51,247 - INFO - Loading faiss with AVX2 support.
+2025-08-01 11:03:51,262 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 11:03:51,265 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 11:03:51,275 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:03:51,275 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:03:56,241 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 11:04:37,493 - INFO - Query processed for user irtaza: what is the fuel allowance for my grade ? for grad...
+2025-08-01 11:05:24,305 - INFO - Query processed for user irtaza: what are theperks forme ? for grade G3\u2010 
+Executiv...
+2025-08-01 11:06:49,408 - INFO - Query processed for user irtaza: what are the perks for g1 officer for grade G3\u2010 
+...
+2025-08-01 11:08:28,357 - INFO - Query processed for user irtaza: what is my gender ?...
+2025-08-01 11:18:44,694 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:18:44,695 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:18:55,636 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:18:55,636 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:19:02,896 - INFO - Loading faiss with AVX2 support.
+2025-08-01 11:19:02,912 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 11:19:02,916 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 11:19:02,926 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:19:02,926 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:19:07,024 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 11:34:39,084 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:34:39,084 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:34:50,013 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:34:50,013 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:34:58,290 - INFO - Loading faiss with AVX2 support.
+2025-08-01 11:34:58,306 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 11:34:58,310 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 11:34:58,319 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:34:58,319 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:35:02,958 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 11:35:45,406 - INFO - Query processed for user dua: what is my gender ?...
+2025-08-01 11:36:09,140 - INFO - Query processed for user dua: what is my grade...
+2025-08-01 11:36:37,618 - INFO - Query processed for user dua: what is my level opd allowance ? for grade G5\u2010 Sr....
+2025-08-01 11:37:31,110 - INFO - Query processed for user dua: what is my level health insurance?...
+2025-08-01 11:39:08,269 - INFO - Query processed for user dua: what is my level health perks ? for grade G5\u2010 Sr. ...
+2025-08-01 11:41:24,404 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:41:24,404 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:41:35,159 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:41:35,159 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:41:41,536 - INFO - Loading faiss with AVX2 support.
+2025-08-01 11:41:41,550 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 11:41:41,554 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 11:41:41,562 - ERROR - System initialization failed: PolicyRAGSystem.__init__() got an unexpected keyword argument 'data_loader'
+2025-08-01 11:41:41,563 - CRITICAL - System crash: PolicyRAGSystem.__init__() got an unexpected keyword argument 'data_loader'
+2025-08-01 11:42:09,478 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:42:09,479 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:42:19,376 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:42:19,376 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:42:25,813 - INFO - Loading faiss with AVX2 support.
+2025-08-01 11:42:25,828 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 11:42:25,831 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 11:42:25,840 - INFO - Use pytorch device_name: cpu
+2025-08-01 11:42:25,840 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 11:42:29,944 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 11:43:19,898 - INFO - Query processed for user irtaza: hgsggeywfuer...
+2025-08-01 11:43:55,307 - INFO - Query processed for user irtaza: what is my resignation policy ?...
+2025-08-01 11:44:36,648 - INFO - Query processed for user irtaza: what ism leave policy...
+2025-08-01 12:06:09,393 - INFO - Query processed for user irtaza: how can i resign...
+2025-08-01 12:08:54,833 - INFO - Query processed for user irtaza: what is the opd policy ?...
+2025-08-01 12:11:45,547 - INFO - Query processed for user irtaza: what is my opd plicy ?...
+2025-08-01 12:12:38,051 - INFO - Query processed for user irtaza: what percentage of salary n opd policy i will get ...
+2025-08-01 12:13:37,905 - INFO - Query processed for user irtaza: i am expecting a son what is the policy for that ?...
+2025-08-01 12:15:22,708 - INFO - Query processed for user irtaza: what is my health insurance policy...
+2025-08-01 12:38:02,305 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:38:02,305 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:38:12,158 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:38:12,159 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:38:17,668 - INFO - Loading faiss with AVX2 support.
+2025-08-01 12:38:17,681 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 12:38:17,685 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 12:38:17,689 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:38:17,689 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:38:22,035 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 12:38:57,238 - ERROR - Query processing failed: 'PolicyRAGSystem' object has no attribute '_is_leave_specific_query'
+2025-08-01 12:39:19,781 - ERROR - Query processing failed: 'PolicyRAGSystem' object has no attribute '_is_leave_specific_query'
+2025-08-01 12:41:14,952 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:41:14,952 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:41:23,891 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:41:23,891 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:41:29,843 - INFO - Loading faiss with AVX2 support.
+2025-08-01 12:41:29,856 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 12:41:29,861 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 12:41:29,865 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:41:29,865 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:41:33,783 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 12:41:55,212 - INFO - Query processed for user dua: what is my grade ?...
+2025-08-01 12:42:08,481 - INFO - Query processed for user dua: what is me gender...
+2025-08-01 12:44:05,521 - INFO - Query processed for user dua: what is my health insurance policy...
+2025-08-01 12:53:29,790 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:53:29,791 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:53:38,534 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:53:38,534 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:53:44,498 - INFO - Loading faiss with AVX2 support.
+2025-08-01 12:53:44,512 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-01 12:53:44,516 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-08-01 12:53:44,520 - INFO - Use pytorch device_name: cpu
+2025-08-01 12:53:44,520 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-08-01 12:53:48,320 - INFO - LangChain GoogleGenerativeAI gemini-2.5-flash initialized successfully
+2025-08-01 12:54:14,287 - INFO - Query processed for user dua: what is my health insurance policy...
+2025-08-01 12:54:34,632 - INFO - Query processed for user dua: what is my fuel allowance for grade G5\u2010 Sr. 
+Mana...
+2025-08-01 12:54:53,534 - INFO - Query processed for user dua: what s my trave allowance for grade G5\u2010 Sr. 
+Mana...
+2025-08-01 12:55:17,271 - INFO - Query processed for user dua: what is the travel allowance for grade G5\u2010 Sr. 
+M...
+2025-08-01 12:55:49,905 - INFO - Query processed for user dua: what s my trave allowance for grade G5\u2010 Sr. 
+Mana...
+2025-08-01 12:56:13,305 - INFO - Query processed for user dua: what is my maternity perk ? for grade G5\u2010 Sr. 
+Ma...
+2025-08-01 12:56:32,965 - INFO - Query processed for user dua: what is my opd perk for grade G5\u2010 Sr. 
+Manager...
+2025-08-01 12:56:57,322 - INFO - Query processed for user dua: what is the leave policy for me...
+2025-08-01 12:58:39,338 - INFO - Query processed for user dua: what is my grade...
+2025-08-01 12:58:59,235 - INFO - Query processed for user dua: what is my health insurance policy...
+2025-08-01 13:00:02,826 - INFO - Query processed for user dua: i am expecting a son what are the benefits for tha...
+2025-08-01 13:00:37,729 - INFO - Query processed for user dua: am i eligible for provident fund?...
+2025-08-01 13:01:24,369 - INFO - Query processed for user dua: am i eligible for provident fund according to my g...
+2025-08-01 14:54:03,851 - ERROR - System initialization failed: Failed to load user data: Google Sheets connection failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-08-01 14:54:03,853 - CRITICAL - System crash: Failed to load user data: Google Sheets connection failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})

@@ -1,0 +1,48 @@
+2025-07-31 14:50:38,111 - INFO - Gemini LLM initialized successfully
+2025-07-31 14:52:06,426 - INFO - Gemini LLM initialized successfully
+2025-07-31 14:55:30,195 - INFO - Gemini LLM initialized successfully
+2025-07-31 15:04:32,371 - INFO - Gemini LLM initialized successfully
+2025-07-31 15:06:03,146 - INFO - Processing query: i am expecting a son what is the policy
+2025-07-31 15:06:03,147 - INFO - User data: {'username': 'irtaza', 'password': 456, 'total_leaves': 14, 'remaining_leaves': 4, 'grade': 'G3\u2010 \r\nExecutive', 'gender ': 'male'}
+2025-07-31 15:06:03,288 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:03,329 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:03,387 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:03,427 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:03,672 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:03,713 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:06:04,733 - INFO - Original query: i am expecting a son what is the policy
+2025-07-31 15:06:04,733 - INFO - Enhanced query: i am expecting a son what is the policy maternity paternity pregnancy leave child baby paternity child baby boy maternity maternity paternity pregnancy child newborn
+2025-07-31 15:06:04,733 - INFO - Context found: 2952 characters
+2025-07-31 15:06:08,432 - INFO - Response generated successfully: 305 characters
+2025-07-31 15:08:53,261 - INFO - Gemini LLM initialized successfully
+2025-07-31 15:09:41,819 - INFO - Processing query: what is my health policy
+2025-07-31 15:09:41,820 - INFO - User data: {'username': 'irtaza', 'password': 456, 'total_leaves': 14, 'remaining_leaves': 4, 'grade': 'G3\u2010 \r\nExecutive', 'gender ': 'male'}
+2025-07-31 15:09:42,136 - INFO - Original query: what is my health policy
+2025-07-31 15:09:42,137 - INFO - Enhanced query: what is my health policy
+2025-07-31 15:09:42,137 - INFO - Context found: 702 characters
+2025-07-31 15:09:44,701 - INFO - Response generated successfully: 477 characters
+2025-07-31 15:10:22,526 - INFO - Processing query: what is my health insuranc policy
+2025-07-31 15:10:22,527 - INFO - User data: {'username': 'irtaza', 'password': 456, 'total_leaves': 14, 'remaining_leaves': 4, 'grade': 'G3\u2010 \r\nExecutive', 'gender ': 'male'}
+2025-07-31 15:10:23,001 - INFO - Original query: what is my health insuranc policy
+2025-07-31 15:10:23,001 - INFO - Enhanced query: what is my health insuranc policy
+2025-07-31 15:10:23,001 - INFO - Context found: 1143 characters
+2025-07-31 15:10:26,474 - INFO - Response generated successfully: 549 characters
+2025-07-31 15:16:14,177 - INFO - Gemini LLM initialized successfully
+2025-07-31 15:16:39,747 - INFO - Processing query: i am expecting a son what is the policy
+2025-07-31 15:16:39,748 - INFO - User data: {'username': 'dua', 'password': 111, 'total_leaves': 14, 'remaining_leaves': 3, 'grade': 'G5\u2010 Sr. \r\nManager', 'gender ': 'female'}
+2025-07-31 15:16:39,839 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:39,878 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:39,946 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:39,988 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:40,221 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:40,262 - WARNING - No relevant docs were retrieved using the relevance score threshold 0.3
+2025-07-31 15:16:41,219 - INFO - Original query: i am expecting a son what is the policy
+2025-07-31 15:16:41,219 - INFO - Enhanced query: i am expecting a son what is the policy maternity paternity pregnancy leave child baby paternity child baby boy maternity maternity paternity pregnancy child newborn
+2025-07-31 15:16:41,219 - INFO - Context found: 2952 characters
+2025-07-31 15:16:46,148 - INFO - Response generated successfully: 306 characters
+2025-07-31 15:17:20,341 - INFO - Processing query: what is m health insuranc policy
+2025-07-31 15:17:20,342 - INFO - User data: {'username': 'dua', 'password': 111, 'total_leaves': 14, 'remaining_leaves': 3, 'grade': 'G5\u2010 Sr. \r\nManager', 'gender ': 'female'}
+2025-07-31 15:17:20,624 - INFO - Original query: what is m health insuranc policy
+2025-07-31 15:17:20,624 - INFO - Enhanced query: what is m health insuranc policy
+2025-07-31 15:17:20,624 - INFO - Context found: 702 characters
+2025-07-31 15:17:25,859 - INFO - Response generated successfully: 661 characters
